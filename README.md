@@ -1,3 +1,6 @@
 # Data Analysis Samples
 This repository contains reports based on the data analysis of publicly avalaible data mostly provided by Government agencies in New Zealand. Below is a short description of each analysis project and a link to the .PDF file which contains the detailed data analysis.
 
+**1. [Crime in Selwyn District - A Sanpshot of 10 years worth of data](Selwyn_Crime_Data_Analysis_Final.pdf):** This report presents the results of analysis of crime data sourced from the [NZ Police Data](https://www.police.govt.nz/about-us/publications-statistics/data-and-statistics/policedatanz). The data has been filtered to focus on Selwyn District.
+
+**2. [Crime and Deprivation in Auckland & Northern Districts of New Zealand](Crime and Deprivation in Auckland and Far North.pdf):** This paper presented the results of a study on the role of project managers in ASD projects. This study was a Mixed Methods study as well and used a combination to surveys and interviews for data collection. This study was unique as it presented different aspects of the project manager’s role such as the informal activities, the management approaches adopted on a day-to-day basis and their influence on Agile practices used by the team. The version uploaded here is a pre-print one and the final published version can be accessed [here](https://doi.org/10.1016/j.jss.2020.110871).
